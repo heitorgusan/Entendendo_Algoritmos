@@ -1,0 +1,26 @@
+O quê é?
+    Um algoritmo de busca muito comúm, rápido e eficaz.
+
+REQUISITOS:
+    Lista Ordenada para executar o algoritmo.
+
+Primeiro entenda o quê é uma pesquisa simples:
+    Digamos que tenhamos um dicionario de A-C simples-> (Abelha, Amor, Anel, Arco, Barco, Cavalo,Cachorro)
+    Eu peço para você buscar a palavra 'Cachorro' e me trazer a definição.
+    Em uma pesquisa simples você primeiro olharia a palavra 'Abelha, depois 'Amor', depois 'Anel'...
+    Até chegar no 'Cachorro' você teria checado palavra por palavra e isso é menos eficaz que usar pesquisa binária.
+
+
+Como funciona? (Uma maneira melhor de buscar)
+    Em vez de buscar item por item em sequencia começa a busca pela metade e depois a metade da metade e
+    assim por diante.
+
+Como descobrir quantas etapas leva para descobrir o valor procurado:
+Para uma lista de 'n' itens, a pesquisa binária precisa de log2n etapas para retornar o valor completo.
+
+LOGARITMOS SÃO O OPOSTO DE EXPONENCIAIS.
+
+Exemplo: LOG10 DE 100 -> Quantas 10 eu preciso multiplicar para chegar a 100? -> 2 pois 10x10 = 100
+Logo LOG10 DE 100 = 2 OU 10^2 = 100
+
+A pesquisa binária trabalha com LOG2 de N
