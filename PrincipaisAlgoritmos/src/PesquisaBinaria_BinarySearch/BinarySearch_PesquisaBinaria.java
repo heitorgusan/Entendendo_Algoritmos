@@ -5,6 +5,7 @@ import java.util.List;
 public class BinarySearch_PesquisaBinaria {
 
     public static int pesquisaBinaria(int[]arrayNumeros, int numero){
+
         int baixo = 0;
         int alto = arrayNumeros.length-1;
 
