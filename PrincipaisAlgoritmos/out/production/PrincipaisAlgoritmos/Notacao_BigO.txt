@@ -1,0 +1,25 @@
+Notação Big O -> Quão rápido é um algoritmo.
+
+Como a notação Big O funciona.
+
+Primeiro -> Você precisa saber se o tempo de execução aumenta conforme a lista
+aumenta. É ai que a notação Big O entra.
+
+Segundo  -> Notação Big O não fornece o tempo por segundos, a comparação é feita possivel com
+números de Operações no pior dos casos.
+
+Terceiro -> Big O é estabelecido para a pior hipótese.
+-------------------------------------------------------------------------------------
+Sintaxe Big O
+
+O(NÚMERO DE OPERAÇÕES)
+
+Exemplo -> Do mais rápido para o mais lento (Não contém todos)
+
+1. O(Log n)    = O Log de 2 N -> Tempo de execução logaritmo. Exemplo: Pesquisa Binaria.
+2. O(n)        =  Passa item por item da lista  -> Conforme aumenta a lista maior é o número de operações
+Exemplo: Pesquisa Simples
+3. O(n* Log n) = Exemplo: Um algoritmo rápido de ordenação, como por exemplo o quicksort.
+4. O(n²)       = Algoritmo lento de ordenação, como a ordenação por seleção
+5. O(n!)       = Algoritmo super lento, como o do caixeiro viajante.
+
