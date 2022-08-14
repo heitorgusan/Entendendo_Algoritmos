@@ -1,0 +1,68 @@
+Introdução-------------------------
+Como funciona a memória?
+Funciona como gavetas de um armario.
+Você guarda coisas em gavetas e cada gaveta tem um endereço -> A memória de um computador funciona assim,
+ela é divida em varios slots e cada slot tem um endereço.
+
+Arrays -> Armazena itens um do lado do outro por isso sua leitura é extremamente rápida já que basta
+apenas saber onde está o endereço do primeiro item que com um cálculo simples você sabe onde está os outros
+
+Exemplo:
+    "A","B","C","D"
+    Endereços: Slot40,Slot41,Slot42,Slot43
+
+Repara que os endereços estão em sequência na memória, um do lado do outro.
+
+Desvantagens:
+1º Você reserva os espaços na memória independente de usar ou não
+Exemplo: Array[10] = new Array() -> Você reservou 10 espaços na memoria.
+2º Adicionar itens novos é uma tarefa "demorada", pois é necessário mover o
+Array todo na memória já que um precisa fica do lado do outro.
+Exemplo:
+Inserindo um item no array:
+No caso abaixo temos um array com os valores 1,2,3,4,5 e o endereço de memoria do lado está ocupado
+então é necessario mover a sequencia toda para inserir o número 6.
+----------ANTES:---------------------------------------
+[1][2][3][4][5][Espaço Ocupado] [Espaço Ocupado]
+[ ] [Espaço Ocupado] [] [] [] [] [] [] []
+----------DEPOIS:--------------------------------------
+[][][][][][Espaço Ocupado] [Espaço Ocupado]
+[ ] [Espaço Ocupado] [1] [2] [3] [4] [5] [6] []
+
+
+List Encadeadas
+Como funciona:
+Cada item da lista guarda o endereço do próximo item
+Cada item está armazenado em lugares aleatorios da memoria.
+Exemplo:
+Lista(Heitor,Água,Bone,1,2,3)
+-------------------------Memória---------------------------------
+[Heitor] [] [Água] [Espaço Ocupado] [Espaço Ocupado]
+[]  [] [Espaço Ocupado] [Bone] [1]
+[Espaço Ocupado] [2] .....
+[3]........
+
+Desvantagens:
+Para Ler é mais demorado já que diferente de Array cada item está alocado
+aleatoriamente então você só sabe por exemplo onde está o último item quando
+descobrir onde está o penúltimo(que guarda a localização do último)
+
+
+Relação BIG O
+
+          ARRAY|LISTAS
+LEITURA    O(1)|O(N)
+INSERÇÃO   O(N)|O(1)
+DELETAR    O(N)|O(1)
+
+O(N) = Tempo de execução LINEAR
+O(1) = Tempo de execução CONSTANTE
+
+
+É mais rapido deletar um item em uma lista que em um array porque no array é necessário mover
+todos os outros itens assim que deleta algum. Em uma lista encadeada basta trocar o apontamento.
+
+RESUMO:
+LISTA ENCADEADAS SÓ PODE SEREM LIDAS COM ACESSO SEQUENCIAL(SÓ SABE ONDE ESTÁ O ÚLTIMO SE PASSAR POR TODOS OS OUTROS)
+
+ARRAY -> ACESSOS ALEATÓRIOS(VOCÊ CONSEGUE ACESSAR MUITO RÁPIDO UM ENDEREÇO EM QUALQUER POSIÇÃO)
