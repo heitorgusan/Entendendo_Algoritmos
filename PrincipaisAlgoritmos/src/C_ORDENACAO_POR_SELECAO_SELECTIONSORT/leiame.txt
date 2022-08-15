@@ -1,0 +1,3 @@
+Eu precisei adaptar o algoritmo para a realidade do Java, o algoritmo é exemplificado com python
+e você consegue remover com pop um item de um array, só é possivel fazer isso no java(ate onde eu sei)
+com listas.
