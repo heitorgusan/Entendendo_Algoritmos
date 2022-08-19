@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ea9a682-f24e-44c8-aae0-45efcda45333" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/B_ARRAYS_e_LISTAS/UnindoArraysComListas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/B_ARRAYS_e_LISTAS/teoria.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/PesquisaBinaria_BinarySearch/MyBinarySearch3.class" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/PesquisaBinaria_BinarySearch/MyBinarySearch3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/PesquisaBinaria_BinarySearch/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/PesquisaBinaria_BinarySearch/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/PesquisaBinaria_BinarySearch/Teoria.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/PesquisaBinaria_BinarySearch/BinarySearch_PesquisaBinaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/BinarySearch_PesquisaBinaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/PesquisaBinaria_BinarySearch/MyBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/MyBinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/PesquisaBinaria_BinarySearch/MyBinarySearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/MyBinarySearch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/PesquisaBinaria_BinarySearch/MyBinarySearch3.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/MyBinarySearch3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/PesquisaBinaria_BinarySearch/MyBinarySearch4.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/MyBinarySearch4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/PesquisaBinaria_BinarySearch/Teoria.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/Teoria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/A_PesquisaBinaria_BinarySearch/MyBinarySearch6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/leiame.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/out/production/PrincipaisAlgoritmos/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/leiame.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrincipaisAlgoritmos/src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/heitorzinho/Documents/IJ/Entendendo_Algoritmos"
+    "last_opened_file_path": "/home/javator/Documents/Java/IJ_IDE/Entendendo_Algoritmos/PrincipaisAlgoritmos"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

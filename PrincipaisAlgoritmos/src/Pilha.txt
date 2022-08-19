@@ -1,0 +1,12 @@
+A pilha é uma estrutura de dados em que o último adicionado na lista é o primeiro a ser lido e/ou
+removido.
+Principais operações:
+Push -> Adiciona um novo item ao topo
+Pop -> Remove o item do topo e le ele.
+---------------------
+Pilha de Chamada
+Call Stack -> Pilha de chamadas, as funções ficam empilhadas na recursão, ver a anotção
+em detalhe "Pilha de Chamada.txt"
+A pilha é  ->LIFO
+Last in First Out
+

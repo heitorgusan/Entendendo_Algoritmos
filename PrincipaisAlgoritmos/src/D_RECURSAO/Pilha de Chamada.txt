@@ -1,0 +1,51 @@
+Como funciona:
+
+Supondo que haja 3 funções
+
+funcao saudar(nome){
+    print "ola" + nome;
+    sauda2(nome)
+    tchau(nome);
+}
+funcao sauda2(nome){
+    print "como você está hoje" + nome +" ?"
+}
+funcao tchau(nome){
+    print "tchau "+heitor
+}
+
+chamando a primeira função:
+
+sauda("heitor")
+
+IMPORTANTE: Quando você chama uma função a partir de outra, a chamada de função(inicial)
+fica pausada em um estado parcialmente completo.
+
+
+DESENHO:
+
+INICIO:
+
+1:
+|SAUDA|
+
+2:
+
+|SAUDA2|
+|SAUDA|
+
+3:
+        |SAUDA2| <- FINALIZANDO
+|SAUDA|
+4:
+
+|TCHAU|
+|SAUDA|
+
+5:
+        |TCHAU| <- FINALIZANDO
+|SAUDA|
+
+6:
+
+|SAUDA|

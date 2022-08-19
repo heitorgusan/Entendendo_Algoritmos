@@ -13,6 +13,7 @@ public class OrdenacaoSelecao_SelectionSort {
         }
     }
 
+    //Usei um mix de array com list para poder retornar um array
     public static int[] ordenarArray(Integer[] array) {
         int tamanhoArray = array.length;
         int novoArray[] = new int[tamanhoArray];
