@@ -1,0 +1,2 @@
+Call Stack -> Pilha de chamadas, as funções ficam empilhadas na recursão -> LIFO
+Last in First Out

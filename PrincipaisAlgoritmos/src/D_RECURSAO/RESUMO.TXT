@@ -1,0 +1,11 @@
+Recursão é quando uma função chama a si mesma.
+Toda função recursiva tem dois casos: o caso-base e o caso recursivo.
+Uma pilha tem duas operações: push e pop.
+Todas as chamadas de função vão para a pilha de chamada.
+A pilha de chamada pode ficar muito grande e ocupar muita memória.
+
+-> Existe um tópico chamado tail recursion(recursão de cauda) uma
+técnica avançada de lidar com recursões que ocupam muita memória e
+que nem toda linguagem de programação suporta.
+
+->Outra forma é reescrever seu código utilizando loops.

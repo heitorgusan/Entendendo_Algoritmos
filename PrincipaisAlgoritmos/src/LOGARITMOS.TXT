@@ -1,0 +1,10 @@
+Algoritmos são os opostos de exponenciais
+
+Log10  de 100 = 2 -> Quantos 10 serão necessários ser multiplicados para atingir 100?
+A RESPOSTA É 2 POIS 10 * 10 = 100 !!!!!!!!!!!!!!!!!!!!!!
+
+
+Quando falamos sobre a notação big O levamos entendemos que LOG É LOG 2(BASE 2)
+
+Log2 de 16 = 4 pois 2*2*2*2 = 16
+Log2 de 32 = 5 pois 2*2*2*2*2 = 32
