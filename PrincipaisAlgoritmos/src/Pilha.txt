@@ -5,7 +5,7 @@ Push -> Adiciona um novo item ao topo
 Pop -> Remove o item do topo e le ele.
 ---------------------
 Pilha de Chamada
-Call Stack -> Pilha de chamadas, as funções ficam empilhadas na recursão, ver a anotção
+Call Stack -> Pilha de chamadas, as funções ficam empilhadas na recursão, ver a anotação
 em detalhe "Pilha de Chamada.txt"
 A pilha é  ->LIFO
 Last in First Out
