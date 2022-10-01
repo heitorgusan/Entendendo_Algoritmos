@@ -3,7 +3,7 @@ package C_ORDENACAO_POR_SELECAO_SELECTIONSORT;
 import java.util.ArrayList;
 import java.util.List;
 
-public class OrdenacaoSelecao_SelectionsSort13ComBinarySearch {
+public class OrdenacaoSelecao_SelectionSort13ComBinarySearch {
 
     public static void main(String[] args) {
         List<Integer> lista = new ArrayList<>(List.of(-2, -10, 1, 2, 40, 3));
