@@ -1,0 +1,9 @@
+
+Ž
+^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort13ComBinarySearch.java,d/b/db5b441011583d73d7d71ba3bd22e6616d9310be
+Ž
+^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort14ComBinarySearch.java,8/5/853ef8a860684f897f5142689fd1df9dfed2059d
+Ž
+^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort15ComBinarySearch.java,b/d/bd0aff90cc832845cb23325ea87af21daf9e85fe
+Ž
+^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort16ComBinarySearch.java,3/b/3b64356f3dc3bd0a01b2464f60e2a06206cc9b01
