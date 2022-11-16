@@ -7,3 +7,13 @@
 ^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort15ComBinarySearch.java,b/d/bd0aff90cc832845cb23325ea87af21daf9e85fe
 Ž
 ^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort16ComBinarySearch.java,3/b/3b64356f3dc3bd0a01b2464f60e2a06206cc9b01
+b
+2src/E_Euclides_e_QuickSort/FuncaoConteOsItens.java,7/b/7b0f0c85e0257d3cdbc72ee80f12197cb3c29523
+B
+src/LOGARITMOS.TXT,7/e/7e0e841a3c2d249faf39fa0a834894beb19a4cd7
+q
+Asrc/E_Euclides_e_QuickSort/FuncaoDescubraOMaiorItemRecursivo.java,1/c/1c6c48fca7d29853375ca8f90a1410bc20d76cfb
+Ž
+^src/C_ORDENACAO_POR_SELECAO_SELECTIONSORT/OrdenacaoSelecao_SelectionSort17ComBinarySearch.java,8/f/8fd5ed17fb380eb4dc3eb46e0b8fe938c5ffd4d7
+c
+3src/E_Euclides_e_QuickSort/FuncaoSomaRecursiva.java,a/1/a11b3f6b44ae56f0ba198b6f39cf776ae0725514
